@@ -22,8 +22,9 @@ Prior to starting my doctoral studies, I completed my Research Master of Managem
 
 My current research focuses on Human-AI Interaction, Social Media, and Health Informatics.
 
+<!-- Future section for invited talks
 (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
-
+-->
 
 # 🔥 News
 - *2025.03*: &nbsp;🎓 Started my first year as a PhD student at the University of Auckland Business School
@@ -41,23 +42,23 @@ My current research focuses on Human-AI Interaction, Social Media, and Health In
 # 📝 Publications 
 
 ## Journal Publications
-- Liu, T., **Zhang, X.**, Song, X., & Zhu, Q*. (2025). Developing a minimum dataset for smart aged care service platforms in China. *Health Information Management Journal*. [https://doi.org/10.1177/18333583251327663](https://doi.org/10.1177/18333583251327663)
+- Liu, T., **Zhang, X.**, Song, X., & Zhu, Q*. (2025). Developing a minimum dataset for smart aged care service platforms in China. *Health Information Management Journal*. <[https://doi.org/10.1177/18333583251327663](https://doi.org/10.1177/18333583251327663)>
 
-- Jia, M., Zhao, Y. C., Zhang, Y., **Zhang, X.** & Song, S (2025). Perceived Values, Attitudes, and Behavioral Responses of Knowledge Creators towards Generative AI in the Context of Human-AI Competition. *Journal of the China Society for Scientific and Technical Information*. 44(5): 609-628.
+- Jia, M., Zhao, Y. C., Zhang, Y., **Zhang, X.** & Song, S (2025). Perceived Values, Attitudes, and Behavioral Responses of Knowledge Creators towards Generative AI in the Context of Human-AI Competition. *Journal of the China Society for Scientific and Technical Information*. 44(5): 609-628. <[https://doi.org/10.3772/j.issn.1000-0135.2025.05.008](https://qbxb.istic.ac.cn/CN/10.3772/j.issn.1000-0135.2025.05.008)> (In Chinese)
 
-- Jia, M., Zhao, Y.C.*, **Zhang, X.**, & Wu, D. (2025). "That looks like something I would do": understanding humanities researchers' digital hoarding behaviors in digital scholarship. *Journal of Documentation*. 81(1). 24-55. **[ABDC Ranking: B]**
+- Jia, M., Zhao, Y.C.*, **Zhang, X.**, & Wu, D. (2025). "That looks like something I would do": understanding humanities researchers' digital hoarding behaviors in digital scholarship. *Journal of Documentation*. 81(1). 24-55. <[https://doi.org/10.1108/JD-01-2024-0004](https://doi.org/10.1108/JD-01-2024-0004)> **[ABDC Ranking: B]**
 
-- Jia, M., Zhao, Y. C., & **Zhang, X.** (2025). Will potential threats persist? Attitudes and behavioral responses of creative professionals toward GenAI. *Information Research an International Electronic Journal*, 30 (iConf), 1073--1083.
+- Jia, M., Zhao, Y. C., & **Zhang, X.** (2025). Will potential threats persist? Attitudes and behavioral responses of creative professionals toward GenAI. *Information Research an International Electronic Journal*, 30 (iConf), 1073--1083. <[https://doi.org/10.47989/ir30iConf47098](https://doi.org/10.47989/ir30iConf47098)>
 
-- **Zhang, X.*** , Zhu, S., Zhao, Y. C., Jia, M., & Zhu, Q. (2024). Engaging with AI painting: exploring motivations and challenges in laypeople's creative information practices. *Information Research an International Electronic Journal*, 29(2), 680--700.
+- **Zhang, X.*** , Zhu, S., Zhao, Y. C., Jia, M., & Zhu, Q. (2024). Engaging with AI painting: exploring motivations and challenges in laypeople's creative information practices. *Information Research an International Electronic Journal*, 29(2), 680--700. <[https://doi.org/10.47989/ir292856](https://doi.org/10.47989/ir292856)>
 
-- Jia, M., Zhao, Y. C.*, Song, S., **Zhang, X.**, Wu, D., & Li, J. (2024). How vicarious learning increases users' knowledge adoption in live streaming: The roles of parasocial interaction, social media affordances, and knowledge consensus. *Information Processing & Management*, 61(2), 103599. **[ABDC Ranking: B]**
+- Jia, M., Zhao, Y. C.*, Song, S., **Zhang, X.**, Wu, D., & Li, J. (2024). How vicarious learning increases users' knowledge adoption in live streaming: The roles of parasocial interaction, social media affordances, and knowledge consensus. *Information Processing & Management*, 61(2), 103599. <[https://doi.org/10.1016/j.ipm.2023.103599](https://doi.org/10.1016/j.ipm.2023.103599)> **[ABDC Ranking: B]**
 
-- Jia, M., **Zhang, X.,** & Zhao, Y.C.* (2024). Increasing your knowledge? The impact of multicommunication and multimodal display in pan-knowledge live streaming on users' knowledge adoption and continuous engagement. *Documentation, Information and Knowledge*. (In Chinese)
+- Jia, M., **Zhang, X.,** & Zhao, Y.C.* (2024). Increasing your knowledge? The impact of multicommunication and multimodal display in pan-knowledge live streaming on users' knowledge adoption and continuous engagement. *Documentation, Information and Knowledge*. <[http://kns.cnki.net/kcms/detail/42.1085.G2.20240607.1416.002.html](http://kns.cnki.net/kcms/detail/42.1085.G2.20240607.1416.002.html)> (In Chinese)
 
-- Liu, T., Wang, Y., **Zhang, X.**, Song, X.*, & Zhu, Q. (2024). Research on the construction of the data resource demand model for the service ecosystem of China's smart aging service platform. *Library and Information Service.* 68(16), 3-16. (In Chinese)
+- Liu, T., Wang, Y., **Zhang, X.**, Song, X.*, & Zhu, Q. (2024). Research on the construction of the data resource demand model for the service ecosystem of China's smart aging service platform. *Library and Information Service.* 68(16), 3-16. <[https://doi.org/10.13266/j.issn.0252-3116.2024.16.001](https://doi.org/10.13266/j.issn.0252-3116.2024.16.001)> (In Chinese)
 
-- **Zhang, X.*** , Xue, X., Zhu, Q., & Zhao, Y.C. (2023). The evaluation index system construction and empirical research of suitable aging design of mobile government service app. *Information and Documentation Services* (02), 22-30. (In Chinese)
+- **Zhang, X.*** , Xue, X., Zhu, Q., & Zhao, Y.C. (2023). The evaluation index system construction and empirical research of suitable aging design of mobile government service app. *Information and Documentation Services* (02), 22-30. <[https://doi.org/10.12154/j.qbzlgz.2023.02.003](https://doi.org/10.12154/j.qbzlgz.2023.02.003)> (In Chinese)
 
 - Li, R.*, **Zhang, X.,** Xu, M., & Zhu, Q. (2022). Research on the construction of digital united front standard system under the new situation: Taking Jiangsu digital united front standard system construction as an example. *Journal of Jiangsu Institute of Socialism* (02), 44-52. (In Chinese)
 
@@ -80,19 +81,19 @@ My current research focuses on Human-AI Interaction, Social Media, and Health In
 -->
   
 ## Conference Presentations
-- Jia, M.*, Zhao, Y.C., & **Zhang, X**. (2025). The role of skill adaptation in navigating technostress and job performance among creative professionals. *PACIS 2025*, Kuala Lumpur, Malaysia.
+- <span class="badge">PACIS 2025</span> Jia, M.*, Zhao, Y.C., & **Zhang, X**. (2025). The role of skill adaptation in navigating technostress and job performance among creative professionals. *Pacific Asia Conference on Information Systems (PACIS 2025)*, Kuala Lumpur, Malaysia. [https://aisel.aisnet.org/pacis2025/hci/hci/2](https://aisel.aisnet.org/pacis2025/hci/hci/2)
 
-- Jia, M.*, Zhao, Y.C., & **Zhang, X**. (2025). Will potential threats persist? Attitudes and behavioral responses of creative professionals toward GenAI. *iConference 2025*, Indiana University Bloomington, USA.
+- <span class="badge">iConference 2025</span> Jia, M.*, Zhao, Y.C., & **Zhang, X**. (2025). Will potential threats persist? Attitudes and behavioral responses of creative professionals toward GenAI. *iConference 2025*, Indiana University Bloomington, USA. [https://doi.org/10.47989/ir30iConf47098](https://doi.org/10.47989/ir30iConf47098)
 
-- **Zhang, X.*** (2024). Algorithm aversion to generative artificial intelligence in creative content. *International Conference on Information Systems (ICIS 2024)*, Bangkok, Thailand.
+- <span class="badge">ICIS 2024</span> **Zhang, X.*** , Zhu, Q. (2024). Algorithm aversion to generative artificial intelligence in creative content. *International Conference on Information Systems (ICIS 2024)*, Bangkok, Thailand. [https://aisel.aisnet.org/icis2024/aiinbus/aiinbus/33](https://aisel.aisnet.org/icis2024/aiinbus/aiinbus/33)
+
+- <span class="badge">ISIC 2024</span> **Zhang, X.*** , Zhu, S., Zhao, Y.C., Jia, M., & Zhu, Q. (2024). Engaging with AI painting: Exploring motivations, challenges, and concerns in laypeople's creative information practices. *The Information Seeking in Context Conference*, Aalborg, Denmark.
 
 - Jia, M.*, Zhao, Y.C., & **Zhang, X**. (2024). When stress becomes motivation: A study of knowledge workers' responses to the use of generative AI. *Chinese Information Science Conference 2024*, Tianjin, China. (In Chinese)
 
-- **Zhang, X.*** , Zhu, S., Zhao, Y.C., Jia, M., & Zhu, Q. (2024). Engaging with AI painting: Exploring motivations, challenges, and concerns in laypeople's creative information practices. *The Information Seeking in Context Conference (ISIC 2024)*, Aalborg, Denmark.
+- <span class="badge">PACIS 2023</span> **Zhang, X.*** , Yang, K., Zhang, X., Li, X., & Zhu, Q. (2023). Understanding public online donations on social media during the pandemic: A social presence theory perspective. *Pacific Asia Conference on Information Systems (PACIS 2023)*, Nanchang, China. [https://aisel.aisnet.org/pacis2023/219](https://aisel.aisnet.org/pacis2023/219)
 
-- **Zhang, X.*** , Yang, K., Zhang, X., Li, X., & Zhu, Q. (2023). Understanding public online donations on social media during the pandemic: A social presence theory perspective. *Pacific Asia Conference on Information Systems (PACIS 2023)*, Nanchang, China.
-
-- **Zhang, X.*** , Zhu, S., Zhao, Y. C., & Zhu, Q. (2023). Exploring laypeople's engagement with AI painting: An investigation into human-AI collaboration in creative activities. *The 16th China Summer Workshop on Information Management (CSWIM 2023),* Changsha, China.
+- <span class="badge">CSWIM 2023</span> **Zhang, X.*** , Zhu, S., Zhao, Y. C., & Zhu, Q. (2023). Exploring laypeople's engagement with AI painting: An investigation into human-AI collaboration in creative activities. *The 16th China Summer Workshop on Information Management (CSWIM 2023)*, Changsha, China.
 
 - Jia, M.*, **Zhang, X.**, & Zhao, Y.C. (2023). Increasing your knowledge? The impact of multicommunication and multimodal display in pan-knowledge live streaming on users' knowledge adoption and continuous engagement. *Information Behavior Annual Conference 2023*, Beijing, China. (In Chinese)
 
@@ -100,12 +101,11 @@ My current research focuses on Human-AI Interaction, Social Media, and Health In
 
 ## Poster Presentations
 
-- **Zhang, X.*** , Jia, M., Zhu, S., & Zhu, Q. (2024). Understanding the human-AI collaboration experience in creative activities. *iConference 2024*, Changchun, China.
+- <span class="badge">iConference 2024</span> **Zhang, X.*** , Jia, M., Zhu, S., & Zhu, Q. (2024). Understanding the human-AI collaboration experience in creative activities. *iConference 2024*, Changchun, China.
 
-- **Zhang, X.*** , Zhu, S., Zhao, Y.C., Hansen, P., & Zhu, Q. (2023). Exploring laypeople's engagement with AI painting: A preliminary investigation into human-AI collaboration. *Proceedings of the Association for Information Science and Technology*, 60: 1215-1217.
+- <span class="badge">ASIS&T 2023</span> **Zhang, X.*** , Zhu, S., Zhao, Y.C., Hansen, P., & Zhu, Q. (2023). Exploring laypeople's engagement with AI painting: A preliminary investigation into human-AI collaboration. *Proceedings of the Association for Information Science and Technology*, 60: 1215-1217. [https://doi.org/10.1002/pra2.996](https://doi.org/10.1002/pra2.996)
 
-- **Zhang, X.*** , Yang, K., & Zhu, Q. (2022). Public online donation participation research based on social media. *ASIS&T Asia-Pacific Regional Conference 2022*, Virtual.
-
+- <span class="badge">ASIS&T 2022</span> **Zhang, X.*** , Yang, K., & Zhu, Q. (2022). Public online donation participation research based on social media. *ASIS&T Asia-Pacific Regional Conference 2022*, Virtual.
 
 # 🎖 Honors and Awards
 - *2024* ICIS 2025 Scholarship Program
