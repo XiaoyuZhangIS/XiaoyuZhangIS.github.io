@@ -81,22 +81,31 @@ My current research focuses on Human-AI Interaction, Social Media, and Health In
 -->
   
 ## Conference Presentations
-
 ### Paper Presentations
-- [The role of skill adaptation in navigating technostress and job performance among creative professionals](https://aisel.aisnet.org/pacis2025/hci/hci/2), Jia, M., Zhao, Y.C., **Zhang, X.**, **PACIS 2025**
-- [Will potential threats persist? Attitudes and behavioral responses of creative professionals toward GenAI](https://doi.org/10.47989/ir30iConf47098), Jia, M., Zhao, Y.C., **Zhang, X.**, **iConference 2025**
-- [Algorithm aversion to generative artificial intelligence in creative content](https://aisel.aisnet.org/icis2024/aiinbus/aiinbus/33), **Zhang, X.**, Zhu, Q., **ICIS 2024**
-- Engaging with AI painting: Exploring motivations, challenges, and concerns in laypeople's creative information practices, **Zhang, X.**, Zhu, S., Zhao, Y.C., Jia, M., Zhu, Q., **ISIC 2024**
-- When stress becomes motivation: A study of knowledge workers' responses to the use of generative AI, Jia, M., Zhao, Y.C., **Zhang, X.**, **CISC 2024** <span style="color:gray">(In Chinese)</span>
-- [Understanding public online donations on social media during the pandemic: A social presence theory perspective](https://aisel.aisnet.org/pacis2023/219), **Zhang, X.**, Yang, K., Zhang, X., Li, X., Zhu, Q., **PACIS 2023**
-- Exploring laypeople's engagement with AI painting: An investigation into human-AI collaboration in creative activities, **Zhang, X.**, Zhu, S., Zhao, Y. C., Zhu, Q., **CSWIM 2023**
-- Increasing your knowledge? The impact of multicommunication and multimodal display in pan-knowledge live streaming on users' knowledge adoption and continuous engagement, Jia, M., **Zhang, X.**, Zhao, Y.C., **IBAC 2023** <span style="color:gray">(In Chinese)</span>
-- The evaluation index system construction and empirical research of suitable aging design of mobile government service app, **Zhang, X.**, Xue, X., Zhu Q., Zhao, Y.C., **CISC 2022** <span style="color:gray">(In Chinese)</span>
+- <span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;">PACIS 2025</span> Jia, M.*, Zhao, Y.C., & **Zhang, X**. (2025). The role of skill adaptation in navigating technostress and job performance among creative professionals. *Pacific Asia Conference on Information Systems (PACIS 2025)*, Kuala Lumpur, Malaysia. [https://aisel.aisnet.org/pacis2025/hci/hci/2](https://aisel.aisnet.org/pacis2025/hci/hci/2)
+
+- <span style="background-color: #e74c3c; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;">iConference 2025</span> Jia, M.*, Zhao, Y.C., & **Zhang, X**. (2025). Will potential threats persist? Attitudes and behavioral responses of creative professionals toward GenAI. *iConference 2025*, Indiana University Bloomington, USA. [https://doi.org/10.47989/ir30iConf47098](https://doi.org/10.47989/ir30iConf47098)
+
+- <span style="background-color: #2ecc71; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;">ICIS 2024</span> **Zhang, X.*** , Zhu, Q. (2024). Algorithm aversion to generative artificial intelligence in creative content. *International Conference on Information Systems (ICIS 2024)*, Bangkok, Thailand. [https://aisel.aisnet.org/icis2024/aiinbus/aiinbus/33](https://aisel.aisnet.org/icis2024/aiinbus/aiinbus/33)
+
+- <span style="background-color: #9b59b6; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;">ISIC 2024</span> **Zhang, X.*** , Zhu, S., Zhao, Y.C., Jia, M., & Zhu, Q. (2024). Engaging with AI painting: Exploring motivations, challenges, and concerns in laypeople's creative information practices. *The Information Seeking in Context Conference (ISIC 2024)*, Aalborg, Denmark.
+
+- <span style="background-color: #f39c12; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;">CISC 2024</span> Jia, M.*, Zhao, Y.C., & **Zhang, X**. (2024). When stress becomes motivation: A study of knowledge workers' responses to the use of generative AI. *Chinese Information Science Conference 2024*, Tianjin, China. (In Chinese)
+
+- <span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;">PACIS 2023</span> **Zhang, X.*** , Yang, K., Zhang, X., Li, X., & Zhu, Q. (2023). Understanding public online donations on social media during the pandemic: A social presence theory perspective. *Pacific Asia Conference on Information Systems (PACIS 2023)*, Nanchang, China. [https://aisel.aisnet.org/pacis2023/219](https://aisel.aisnet.org/pacis2023/219)
+
+- <span style="background-color: #1abc9c; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;">CSWIM 2023</span> **Zhang, X.*** , Zhu, S., Zhao, Y. C., & Zhu, Q. (2023). Exploring laypeople's engagement with AI painting: An investigation into human-AI collaboration in creative activities. *The 16th China Summer Workshop on Information Management (CSWIM 2023)*, Changsha, China.
+
+- <span style="background-color: #34495e; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;">IBAC 2023</span> Jia, M.*, **Zhang, X.**, & Zhao, Y.C. (2023). Increasing your knowledge? The impact of multicommunication and multimodal display in pan-knowledge live streaming on users' knowledge adoption and continuous engagement. *Information Behavior Annual Conference 2023*, Beijing, China. (In Chinese)
+
+- <span style="background-color: #f39c12; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;">CISC 2022</span> **Zhang, X.*** , Xue, X., Zhu Q., & Zhao, Y.C. (2022). The evaluation index system construction and empirical research of suitable aging design of mobile government service app. *Chinese Information Science Conference 2022*, Beijing, China. (In Chinese)
 
 ### Poster Presentations
-- Understanding the human-AI collaboration experience in creative activities, **Zhang, X.**, Jia, M., Zhu, S., Zhu, Q., **iConference 2024**
-- [Exploring laypeople's engagement with AI painting: A preliminary investigation into human-AI collaboration](https://doi.org/10.1002/pra2.996), **Zhang, X.**, Zhu, S., Zhao, Y.C., Hansen, P., Zhu, Q., **ASIS&T 2023**
+- <span style="background-color: #e74c3c; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;">iConference 2024</span> **Zhang, X.*** , Jia, M., Zhu, S., & Zhu, Q. (2024). Understanding the human-AI collaboration experience in creative activities. *iConference 2024*, Changchun, China.
 
+- <span style="background-color: #8e44ad; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;">ASIS&T 2023</span> **Zhang, X.*** , Zhu, S., Zhao, Y.C., Hansen, P., & Zhu, Q. (2023). Exploring laypeople's engagement with AI painting: A preliminary investigation into human-AI collaboration. *Proceedings of the Association for Information Science and Technology*, 60: 1215-1217. [https://doi.org/10.1002/pra2.996](https://doi.org/10.1002/pra2.996)
+
+- <span style="background-color: #8e44ad; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;">ASIS&T 2022</span> **Zhang, X.*** , Yang, K., & Zhu, Q. (2022). Public online donation participation research based on social media. *ASIS&T Asia-Pacific Regional Conference 2022*, Virtual.
 
 <!-- Future section for invited talks 带图片版本
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">PACIS 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
