@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Xiaoyu Zhang"
-description              : "First-year doctoral student in Information Systems at University of Auckland Business School."
+title                    : "Xiaoyu Zhang (张晓宇)"
+description              : ""
 repository               : "XiaoyuZhangIS/XiaoyuZhangIS.github.io"
 google_scholar_stats_use_cdn : true
 
