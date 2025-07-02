@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Xiaoyu Zhang"
-description              : "Ph.D student in Information Systems at University of Auckland Business School"
+description              : "Information Systems"
 repository               : "XiaoyuZhangIS/XiaoyuZhangIS.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Xiaoyu Zhang (张晓宇)"
+  name             : "Xiaoyu Zhang<br/>&nbsp;<br/>(张晓宇)"
   avatar           : "images/IMG_20240610_000521.jpg"
   bio              : "Ph.D student"
   location         : "Auckland, New Zealand"
