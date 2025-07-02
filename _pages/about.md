@@ -168,7 +168,7 @@ My current research focuses on Human-AI Interaction, Social Media, and Health In
 - International Conference on Information Systems (ICIS 2025, 2024)
   
 # 💻 Internships
-- *2022.09 - 2022.11*, **SAAS Product Design Intern**, TRANSWARP, Nanjing, China
-- *2020.09 - 2021.03*, **AI Product Design Intern**, SENSETIME, Shanghai, China  
-- *2019.01 - 2019.03*, **System Development Intern**, DISONMED, Zhengzhou, China
+- *2022.09 - 2022.11*, **SAAS Product Design Intern**, Transwarp, China
+- *2020.09 - 2021.03*, **AI Product Design Intern**, Sensetime, China  
+- *2019.01 - 2019.03*, **System Development Intern**, Disonmed, China
 
