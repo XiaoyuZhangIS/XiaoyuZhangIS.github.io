@@ -144,7 +144,7 @@ My current research focuses on Human-AI Interaction, Social Media, and Health In
 - *2021.09 - 2024.06*, **Research Master of Management (Information Science)**, School of Information Management, Nanjing University, China
   - Supervisor: Prof. Qinghua Zhu
 - *2017.09 - 2021.06*, **Bachelor of Management (Information Management and Information System)**, School of Information Management, Nanjing University, China
-- *2019.09 - 2021.07*, **Minor in Arts and Cultural Creativity**, School of Arts, Nanjing University, China
+- *2019.09 - 2021.06*, **Minor in Arts and Cultural Creativity**, School of Arts, Nanjing University, China
     
 <!-- Future section for invited talks
 # 💬 Invited Talks
@@ -169,9 +169,6 @@ My current research focuses on Human-AI Interaction, Social Media, and Health In
   
 # 💻 Internships
 - *2022.09 - 2022.11*, **SAAS Product Design Intern**, TRANSWARP, Nanjing, China
-  - Engaged in design and iteration of enterprise-oriented big data platform products
 - *2020.09 - 2021.03*, **AI Product Design Intern**, SENSETIME, Shanghai, China  
-  - Participated in designing smart community products from requirement generation to launch
 - *2019.01 - 2019.03*, **System Development Intern**, DISONMED, Zhengzhou, China
-  - Contributed to design and development of company management system
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+
