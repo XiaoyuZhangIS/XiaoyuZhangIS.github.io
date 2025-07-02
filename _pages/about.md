@@ -121,7 +121,7 @@ My current research focuses on Human-AI Interaction, Social Media, and Health In
 -->
 
 # 🏅 Honors and Awards
-- *2024* ICIS 2025 Scholarship Program
+- *2024* ICIS 2024 Scholarship Program
 - *2024* Outstanding Graduates of Nanjing University (Distinguished)
 - *2023* Chinese National Scholarship (Top 0.2% nationwide, ¥20,000)
 - *2023* Outstanding Graduate Student of Nanjing University (Distinguished)
