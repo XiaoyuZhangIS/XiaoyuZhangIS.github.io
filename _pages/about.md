@@ -83,86 +83,20 @@ My current research focuses on Human-AI Interaction, Social Media, and Health In
 ## Conference Presentations
 
 ### Paper Presentations
-
-<div class='paper-box'><div class='paper-box-image'><div class="badge">PACIS 2025</div></div>
-<div class='paper-box-text' markdown="1">
-[The role of skill adaptation in navigating technostress and job performance among creative professionals](https://aisel.aisnet.org/pacis2025/hci/hci/2) Jia, M.*, Zhao, Y.C., & **Zhang, X**. 
-**PACIS 2025** \| Kuala Lumpur, Malaysia
-- This study examines how creative professionals adapt their skills to manage technostress and maintain job performance in the context of AI integration.
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div class="badge">iConference 2025</div></div>
-<div class='paper-box-text' markdown="1">
-[Will potential threats persist? Attitudes and behavioral responses of creative professionals toward GenAI](https://doi.org/10.47989/ir30iConf47098) Jia, M.*, Zhao, Y.C., & **Zhang, X**.
-**iConference 2025** \| Indiana University Bloomington, USA
-- This research explores creative professionals' perceptions and responses to generative AI technologies.
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div class="badge">ICIS 2024</div></div>
-<div class='paper-box-text' markdown="1">
-[Algorithm aversion to generative artificial intelligence in creative content](https://aisel.aisnet.org/icis2024/aiinbus/aiinbus/33) **Zhang, X.*** , Zhu, Q.
-**ICIS 2024** \| Bangkok, Thailand
-- This study investigates why users may resist or avoid using generative AI tools for creative tasks.
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div class="badge">ISIC 2024</div></div>
-<div class='paper-box-text' markdown="1">
-Engaging with AI painting: Exploring motivations, challenges, and concerns in laypeople's creative information practices. **Zhang, X.*** , Zhu, S., Zhao, Y.C., Jia, M., & Zhu, Q.
-**ISIC 2024** \| Aalborg, Denmark
-- This research examines how ordinary people engage with AI painting tools and their information-seeking behaviors.
-</div>
-</div>
-
-- Jia, M.*, Zhao, Y.C., & **Zhang, X**. (2024). When stress becomes motivation: A study of knowledge workers' responses to the use of generative AI. *Chinese Information Science Conference 2024*, Tianjin, China. (In Chinese)
-
-<div class='paper-box'><div class='paper-box-image'><div class="badge">PACIS 2023</div></div>
-<div class='paper-box-text' markdown="1">
-[Understanding public online donations on social media during the pandemic: A social presence theory perspective](https://aisel.aisnet.org/pacis2023/219) **Zhang, X.*** , Yang, K., Zhang, X., Li, X., & Zhu, Q.
-**PACIS 2023** \| Nanchang, China
-- This study applies social presence theory to understand donation behaviors on social media platforms during COVID-19.
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div class="badge">CSWIM 2023</div></div>
-<div class='paper-box-text' markdown="1">
-Exploring laypeople's engagement with AI painting: An investigation into human-AI collaboration in creative activities. **Zhang, X.*** , Zhu, S., Zhao, Y. C., & Zhu, Q.
-**CSWIM 2023** \| Changsha, China
-- This research investigates how non-experts collaborate with AI systems in creative painting tasks.
-</div>
-</div>
-
-- Jia, M.*, **Zhang, X.**, & Zhao, Y.C. (2023). Increasing your knowledge? The impact of multicommunication and multimodal display in pan-knowledge live streaming on users' knowledge adoption and continuous engagement. *Information Behavior Annual Conference 2023*, Beijing, China. (In Chinese)
-
-- **Zhang, X.*** , Xue, X., Zhu Q., & Zhao, Y.C. (2022). The evaluation index system construction and empirical research of suitable aging design of mobile government service app. *Chinese Information Science Conference 2022*, Beijing, China. (In Chinese)
+- [The role of skill adaptation in navigating technostress and job performance among creative professionals](https://aisel.aisnet.org/pacis2025/hci/hci/2), Jia, M., Zhao, Y.C., **Zhang, X.**, **PACIS 2025**
+- [Will potential threats persist? Attitudes and behavioral responses of creative professionals toward GenAI](https://doi.org/10.47989/ir30iConf47098), Jia, M., Zhao, Y.C., **Zhang, X.**, **iConference 2025**
+- [Algorithm aversion to generative artificial intelligence in creative content](https://aisel.aisnet.org/icis2024/aiinbus/aiinbus/33), **Zhang, X.**, Zhu, Q., **ICIS 2024**
+- Engaging with AI painting: Exploring motivations, challenges, and concerns in laypeople's creative information practices, **Zhang, X.**, Zhu, S., Zhao, Y.C., Jia, M., Zhu, Q., **ISIC 2024**
+- When stress becomes motivation: A study of knowledge workers' responses to the use of generative AI, Jia, M., Zhao, Y.C., **Zhang, X.**, **CISC 2024** <span style="color:gray">(In Chinese)</span>
+- [Understanding public online donations on social media during the pandemic: A social presence theory perspective](https://aisel.aisnet.org/pacis2023/219), **Zhang, X.**, Yang, K., Zhang, X., Li, X., Zhu, Q., **PACIS 2023**
+- Exploring laypeople's engagement with AI painting: An investigation into human-AI collaboration in creative activities, **Zhang, X.**, Zhu, S., Zhao, Y. C., Zhu, Q., **CSWIM 2023**
+- Increasing your knowledge? The impact of multicommunication and multimodal display in pan-knowledge live streaming on users' knowledge adoption and continuous engagement, Jia, M., **Zhang, X.**, Zhao, Y.C., **IBAC 2023** <span style="color:gray">(In Chinese)</span>
+- The evaluation index system construction and empirical research of suitable aging design of mobile government service app, **Zhang, X.**, Xue, X., Zhu Q., Zhao, Y.C., **CISC 2022** <span style="color:gray">(In Chinese)</span>
 
 ### Poster Presentations
+- Understanding the human-AI collaboration experience in creative activities, **Zhang, X.**, Jia, M., Zhu, S., Zhu, Q., **iConference 2024**
+- [Exploring laypeople's engagement with AI painting: A preliminary investigation into human-AI collaboration](https://doi.org/10.1002/pra2.996), **Zhang, X.**, Zhu, S., Zhao, Y.C., Hansen, P., Zhu, Q., **ASIS&T 2023**
 
-<div class='paper-box'><div class='paper-box-image'><div class="badge">iConference 2024</div></div>
-<div class='paper-box-text' markdown="1">
-Understanding the human-AI collaboration experience in creative activities. **Zhang, X.*** , Jia, M., Zhu, S., & Zhu, Q.
-**iConference 2024** \| Changchun, China
-- This poster presentation explores the collaborative dynamics between humans and AI in creative tasks.
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div class="badge">ASIS&T 2023</div></div>
-<div class='paper-box-text' markdown="1">
-[Exploring laypeople's engagement with AI painting: A preliminary investigation into human-AI collaboration](https://doi.org/10.1002/pra2.996) **Zhang, X.*** , Zhu, S., Zhao, Y.C., Hansen, P., & Zhu, Q.
-**ASIS&T 2023** \| *Proceedings of the Association for Information Science and Technology*, 60: 1215-1217
-- A preliminary study examining how ordinary users interact with AI painting systems.
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div class="badge">ASIS&T 2022</div></div>
-<div class='paper-box-text' markdown="1">
-Public online donation participation research based on social media. **Zhang, X.*** , Yang, K., & Zhu, Q.
-**ASIS&T 2022** \| Asia-Pacific Regional Conference (Virtual)
-- This research examines factors influencing online donation behaviors through social media platforms.
-</div>
-</div>
 
 <!-- Future section for invited talks 带图片版本
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">PACIS 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
