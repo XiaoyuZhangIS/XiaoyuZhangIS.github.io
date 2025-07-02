@@ -42,27 +42,29 @@ My current research focuses on Human-AI Interaction, Social Media, and Health In
 # 📝 Publications 
 
 ## Journal Publications
-- Liu, T., **Zhang, X.**, Song, X., & Zhu, Q*. (2025). Developing a minimum dataset for smart aged care service platforms in China. *Health Information Management Journal*. <[https://doi.org/10.1177/18333583251327663](https://doi.org/10.1177/18333583251327663)>
+## Journal Publications
 
-- Jia, M., Zhao, Y. C., Zhang, Y., **Zhang, X.** & Song, S (2025). Perceived Values, Attitudes, and Behavioral Responses of Knowledge Creators towards Generative AI in the Context of Human-AI Competition. *Journal of the China Society for Scientific and Technical Information*. 44(5): 609-628. <[https://doi.org/10.3772/j.issn.1000-0135.2025.05.008](https://qbxb.istic.ac.cn/CN/10.3772/j.issn.1000-0135.2025.05.008)> (In Chinese)
+- Liu, T., **Zhang, X.**, Song, X., & Zhu, Q.\* (2025). Developing a minimum dataset for smart aged care service platforms in China. *Health Information Management Journal*. [https://doi.org/10.1177/18333583251327663](https://doi.org/10.1177/18333583251327663)
 
-- Jia, M., Zhao, Y.C.*, **Zhang, X.**, & Wu, D. (2025). "That looks like something I would do": understanding humanities researchers' digital hoarding behaviors in digital scholarship. *Journal of Documentation*. 81(1). 24-55. <[https://doi.org/10.1108/JD-01-2024-0004](https://doi.org/10.1108/JD-01-2024-0004)>
+- Jia, M., Zhao, Y. C., Zhang, Y., **Zhang, X.** & Song, S (2025). Perceived Values, Attitudes, and Behavioral Responses of Knowledge Creators towards Generative AI in the Context of Human-AI Competition. *Journal of the China Society for Scientific and Technical Information*. 44(5): 609-628. [https://qbxb.istic.ac.cn/CN/10.3772/j.issn.1000-0135.2025.05.008](https://qbxb.istic.ac.cn/CN/10.3772/j.issn.1000-0135.2025.05.008) (In Chinese)
 
-- Jia, M., Zhao, Y. C., & **Zhang, X.** (2025). Will potential threats persist? Attitudes and behavioral responses of creative professionals toward GenAI. *Information Research an International Electronic Journal*, 30 (iConf), 1073--1083. <[https://doi.org/10.47989/ir30iConf47098](https://doi.org/10.47989/ir30iConf47098)>
+- Jia, M., Zhao, Y.C.\*, **Zhang, X.**, & Wu, D. (2025). "That looks like something I would do": understanding humanities researchers' digital hoarding behaviors in digital scholarship. *Journal of Documentation*. 81(1). 24-55. [https://doi.org/10.1108/JD-01-2024-0004](https://doi.org/10.1108/JD-01-2024-0004) **[ABDC Ranking: B]**
 
-- **Zhang, X.*** , Zhu, S., Zhao, Y. C., Jia, M., & Zhu, Q. (2024). Engaging with AI painting: exploring motivations and challenges in laypeople's creative information practices. *Information Research an International Electronic Journal*, 29(2), 680--700. <[https://doi.org/10.47989/ir292856](https://doi.org/10.47989/ir292856)>
+- Jia, M., Zhao, Y. C., & **Zhang, X.** (2025). Will potential threats persist? Attitudes and behavioral responses of creative professionals toward GenAI. *Information Research an International Electronic Journal*, 30 (iConf), 1073–1083. [https://doi.org/10.47989/ir30iConf47098](https://doi.org/10.47989/ir30iConf47098)
 
-- Jia, M., Zhao, Y. C.*, Song, S., **Zhang, X.**, Wu, D., & Li, J. (2024). How vicarious learning increases users' knowledge adoption in live streaming: The roles of parasocial interaction, social media affordances, and knowledge consensus. *Information Processing & Management*, 61(2), 103599. <[https://doi.org/10.1016/j.ipm.2023.103599](https://doi.org/10.1016/j.ipm.2023.103599)> 
+- **Zhang, X.**\*, Zhu, S., Zhao, Y. C., Jia, M., & Zhu, Q. (2024). Engaging with AI painting: exploring motivations and challenges in laypeople's creative information practices. *Information Research an International Electronic Journal*, 29(2), 680–700. [https://doi.org/10.47989/ir292856](https://doi.org/10.47989/ir292856)
 
-- Jia, M., **Zhang, X.,** & Zhao, Y.C.* (2024). Increasing your knowledge? The impact of multicommunication and multimodal display in pan-knowledge live streaming on users' knowledge adoption and continuous engagement. *Documentation, Information and Knowledge*. <[http://kns.cnki.net/kcms/detail/42.1085.G2.20240607.1416.002.html](http://kns.cnki.net/kcms/detail/42.1085.G2.20240607.1416.002.html)> (In Chinese)
+- Jia, M., Zhao, Y. C.\*, Song, S., **Zhang, X.**, Wu, D., & Li, J. (2024). How vicarious learning increases users' knowledge adoption in live streaming: The roles of parasocial interaction, social media affordances, and knowledge consensus. *Information Processing & Management*, 61(2), 103599. [https://doi.org/10.1016/j.ipm.2023.103599](https://doi.org/10.1016/j.ipm.2023.103599) **[ABDC Ranking: B]**
 
-- Liu, T., Wang, Y., **Zhang, X.**, Song, X.*, & Zhu, Q. (2024). Research on the construction of the data resource demand model for the service ecosystem of China's smart aging service platform. *Library and Information Service.* 68(16), 3-16. <[https://doi.org/10.13266/j.issn.0252-3116.2024.16.001](https://doi.org/10.13266/j.issn.0252-3116.2024.16.001)> (In Chinese)
+- Jia, M., **Zhang, X.**, & Zhao, Y.C.\* (2024). Increasing your knowledge? The impact of multicommunication and multimodal display in pan-knowledge live streaming on users' knowledge adoption and continuous engagement. *Documentation, Information and Knowledge*. [http://kns.cnki.net/kcms/detail/42.1085.G2.20240607.1416.002.html](http://kns.cnki.net/kcms/detail/42.1085.G2.20240607.1416.002.html) (In Chinese)
 
-- **Zhang, X.*** , Xue, X., Zhu, Q., & Zhao, Y.C. (2023). The evaluation index system construction and empirical research of suitable aging design of mobile government service app. *Information and Documentation Services* (02), 22-30. <[https://doi.org/10.12154/j.qbzlgz.2023.02.003](https://doi.org/10.12154/j.qbzlgz.2023.02.003)> (In Chinese)
+- Liu, T., Wang, Y., **Zhang, X.**, Song, X.\*, & Zhu, Q. (2024). Research on the construction of the data resource demand model for the service ecosystem of China's smart aging service platform. *Library and Information Service*. 68(16), 3-16. [https://doi.org/10.13266/j.issn.0252-3116.2024.16.001](https://doi.org/10.13266/j.issn.0252-3116.2024.16.001) (In Chinese)
 
-- Li, R.*, **Zhang, X.,** Xu, M., & Zhu, Q. (2022). Research on the construction of digital united front standard system under the new situation: Taking Jiangsu digital united front standard system construction as an example. *Journal of Jiangsu Institute of Socialism* (02), 44-52. (In Chinese)
+- **Zhang, X.**\*, Xue, X., Zhu, Q., & Zhao, Y.C. (2023). The evaluation index system construction and empirical research of suitable aging design of mobile government service app. *Information and Documentation Services* (02), 22-30. [https://doi.org/10.12154/j.qbzlgz.2023.02.003](https://doi.org/10.12154/j.qbzlgz.2023.02.003) (In Chinese)
 
-- Li, R.*, **Zhang, X.,** Zhu, Q., & Yuan, Q. (2021). Research on collaborative governance model of informatization construction under the united front work pattern. *Journal of Jiangsu Institute of Socialism* (06), 4-11. (In Chinese)
+- Li, R.\*, **Zhang, X.**, Xu, M., & Zhu, Q. (2022). Research on the construction of digital united front standard system under the new situation: Taking Jiangsu digital united front standard system construction as an example. *Journal of Jiangsu Institute of Socialism* (02), 44-52. (In Chinese)
+
+- Li, R.\*, **Zhang, X.**, Zhu, Q., & Yuan, Q. (2021). Research on collaborative governance model of informatization construction under the united front work pattern. *Journal of Jiangsu Institute of Socialism* (06), 4-11. (In Chinese)
 
 <!-- Future section for invited talks
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
