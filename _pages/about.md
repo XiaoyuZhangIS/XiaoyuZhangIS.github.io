@@ -16,14 +16,14 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-I am a first-year PhD student in Information Systems at the University of Auckland Business School, supervised by Dr. Randy Wong and Prof. Julia Kotlarsky. 
+I am a first-year PhD student in Information Systems at the University of Auckland Business School, supervised by Dr. Randy Wong and Prof. Julia Kotlarsky. My current research focuses on Human-AI Interaction, Social Media, and Health Informatics.
 
 Prior to starting my doctoral studies, I completed my Research Master of Management (Major in Information Science) at Nanjing University in 2024, supervised by Prof. Qinghua Zhu. 
 
 I also completed my Bachelor of Management (Major in Information Management and Information System) from Nanjing University in 2021, with a minor in Arts and Cultural Creativity.
 
-My current research focuses on Human-AI Interaction, Social Media, and Health Informatics.
-
+I am passionate about learning new things and embracing challenges. Outside of academia, I love budgies, photography, music, and learning languages.
+ 
 <!-- Future section for invited talks
 (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 -->
