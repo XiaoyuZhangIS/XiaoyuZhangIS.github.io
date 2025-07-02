@@ -15,6 +15,7 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
+# About Me
 <span class='anchor' id='about-me'></span>
 I am a first-year PhD student in Information Systems at the University of Auckland Business School, supervised by Dr. Randy Wong and Prof. Julia Kotlarsky. My current research focuses on Human-AI Interaction, Social Media, and Health Informatics.
 
