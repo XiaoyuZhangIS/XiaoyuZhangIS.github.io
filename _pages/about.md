@@ -38,8 +38,8 @@ I am passionate about learning new things and embracing challenges. Outside of a
 - *2023.11*: &nbsp;🎉 Attended ASIS&T Annual Meeting 2023 and presented a poster, London, UK
 - *2023.07*: &nbsp;🎉 Attended PACIS (Pacific Asia Conference on Information Systems) 2023 and presented a paper, Nanchang, China
 - *2023.04*: &nbsp;🎉 Attended CSWIM (China Summer Workshop on Information Management) 2023 and presented a paper, Changsha, China
-- *2021.09*: &nbsp;🎓 Started Research Master program at Nanjing University
-- *2021.06*: &nbsp;🎓 Graduated with Bachelor of Management from Nanjing University
+#- *2021.09*: &nbsp;🎓 Started Research Master program at Nanjing University
+#- *2021.06*: &nbsp;🎓 Graduated with Bachelor of Management from Nanjing University
 
 
 # 📝 Publications 
