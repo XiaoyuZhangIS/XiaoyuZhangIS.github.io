@@ -63,8 +63,6 @@ My current research focuses on Human-AI Interaction, Social Media, and Health In
 
 - Li, R.*, **Zhang, X.,** Zhu, Q., & Yuan, Q. (2021). Research on collaborative governance model of informatization construction under the united front work pattern. *Journal of Jiangsu Institute of Socialism* (06), 4-11. (In Chinese)
 
-
-
 <!-- Future section for invited talks
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -88,11 +86,15 @@ My current research focuses on Human-AI Interaction, Social Media, and Health In
 
 - **Zhang, X.*** (2024). Algorithm aversion to generative artificial intelligence in creative content. *International Conference on Information Systems (ICIS 2024)*, Bangkok, Thailand.
 
+- Jia, M.*, Zhao, Y.C., & **Zhang, X**. (2024). When stress becomes motivation: A study of knowledge workers' responses to the use of generative AI. *Chinese Information Science Conference 2024*, Tianjin, China. (In Chinese)
+
 - **Zhang, X.*** , Zhu, S., Zhao, Y.C., Jia, M., & Zhu, Q. (2024). Engaging with AI painting: Exploring motivations, challenges, and concerns in laypeople's creative information practices. *The Information Seeking in Context Conference (ISIC 2024)*, Aalborg, Denmark.
 
 - **Zhang, X.*** , Yang, K., Zhang, X., Li, X., & Zhu, Q. (2023). Understanding public online donations on social media during the pandemic: A social presence theory perspective. *Pacific Asia Conference on Information Systems (PACIS 2023)*, Nanchang, China.
 
 - **Zhang, X.*** , Zhu, S., Zhao, Y. C., & Zhu, Q. (2023). Exploring laypeople's engagement with AI painting: An investigation into human-AI collaboration in creative activities. *The 16th China Summer Workshop on Information Management (CSWIM 2023),* Changsha, China.
+
+- Jia, M.*, **Zhang, X.**, & Zhao, Y.C. (2023). Increasing your knowledge? The impact of multicommunication and multimodal display in pan-knowledge live streaming on users' knowledge adoption and continuous engagement. *Information Behavior Annual Conference 2023*, Beijing, China. (In Chinese)
 
 - **Zhang, X.*** , Xue, X., Zhu Q., & Zhao, Y.C. (2022). The evaluation index system construction and empirical research of suitable aging design of mobile government service app. *Chinese Information Science Conference 2022*, Beijing, China. (In Chinese)
 
