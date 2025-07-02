@@ -16,18 +16,56 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
+I am a first-year PhD student in Information Systems at the University of Auckland Business School, supervised by Dr. Randy Wong and Prof. Julia Kotlarsky. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+Prior to starting my doctoral studies, I completed my Research Master of Management (Major in Information Science) at Nanjing University in 2024, supervised by Prof. Qinghua Zhu, and my Bachelor of Management (Major in Information Management and Information System) at Nanjing University in 2021, with a minor in Arts and Cultural Creativity.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My current research focuses on Human-AI Interaction, Social Media, and Health Informatics.
+
+(You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.03*: &nbsp;🎓 Started my first year as a PhD student at the University of Auckland Business School
+- *2024.12*: &nbsp;🎉🎉 Attended ICIS (International Conference on Information Systems) 2024 and presented a paper, Bangkok, Thailand
+- *2024.08*: &nbsp;🎉🎉 Attended ISIC (The Information Seeking in Context Conference) 2024 and presented a paper, Aalborg, Denmark
+- *2024.06*: &nbsp;🎓 Graduated with Research Master of Management from Nanjing University
+- *2024.04*: &nbsp;🎉🎉 Attended iConference 2024 and presented a poster, Changchun, China
+- *2023.11*: &nbsp;🎉🎉 Attended ASIS&T Annual Meeting 2023 and presented a poster, London, UK
+- *2023.07*: &nbsp;🎉🎉 Attended PACIS (Pacific Asia Conference on Information Systems) 2023 and presented a paper, Nanchang, China
+- *2023.04*: &nbsp;🎉🎉 Attended CSWIM (China Summer Workshop on Information Management) 2023 and presented a paper, Changsha, China
+- *2021.09*: &nbsp;🎓 Started Research Master program at Nanjing University
+- *2021.06*: &nbsp;🎓 Graduated with Bachelor of Management from Nanjing University
+
 
 # 📝 Publications 
 
+## Journal Publications
+- Liu, T., **Zhang, X.**, Song, X., & Zhu, Q*. (2025). Developing a minimum dataset for smart aged care service platforms in China. *Health Information Management Journal*. [https://doi.org/10.1177/18333583251327663](https://doi.org/10.1177/18333583251327663)
+
+- Jia, M., Zhao, Y. C., Zhang, Y., **Zhang, X.** & Song, S (2025). Perceived Values, Attitudes, and Behavioral Responses of Knowledge Creators towards Generative AI in the Context of Human-AI Competition. *Journal of the China Society for Scientific and Technical Information*. 44(5): 609-628.
+
+- Jia, M., Zhao, Y.C.*, **Zhang, X.**, & Wu, D. (2025). "That looks like something I would do": understanding humanities researchers' digital hoarding behaviors in digital scholarship. *Journal of Documentation*. 81(1). 24-55. **[ABDC Ranking: B]**
+
+- Jia, M., Zhao, Y. C., & **Zhang, X.** (2025). Will potential threats persist? Attitudes and behavioral responses of creative professionals toward GenAI. *Information Research an International Electronic Journal*, 30 (iConf), 1073--1083.
+
+- **Zhang, X.*** , Zhu, S., Zhao, Y. C., Jia, M., & Zhu, Q. (2024). Engaging with AI painting: exploring motivations and challenges in laypeople's creative information practices. *Information Research an International Electronic Journal*, 29(2), 680--700.
+
+- Jia, M., Zhao, Y. C.*, Song, S., **Zhang, X.**, Wu, D., & Li, J. (2024). How vicarious learning increases users' knowledge adoption in live streaming: The roles of parasocial interaction, social media affordances, and knowledge consensus. *Information Processing & Management*, 61(2), 103599. **[ABDC Ranking: B]**
+
+- Jia, M., **Zhang, X.,** & Zhao, Y.C.* (2024). Increasing your knowledge? The impact of multicommunication and multimodal display in pan-knowledge live streaming on users' knowledge adoption and continuous engagement. *Documentation, Information and Knowledge*. (In Chinese)
+
+- Liu, T., Wang, Y., **Zhang, X.**, Song, X.*, & Zhu, Q. (2024). Research on the construction of the data resource demand model for the service ecosystem of China's smart aging service platform. *Library and Information Service.* 68(16), 3-16. (In Chinese)
+
+- **Zhang, X.*** , Xue, X., Zhu, Q., & Zhao, Y.C. (2023). The evaluation index system construction and empirical research of suitable aging design of mobile government service app. *Information and Documentation Services* (02), 22-30. (In Chinese)
+
+- Li, R.*, **Zhang, X.,** Xu, M., & Zhu, Q. (2022). Research on the construction of digital united front standard system under the new situation: Taking Jiangsu digital united front standard system construction as an example. *Journal of Jiangsu Institute of Socialism* (02), 44-52. (In Chinese)
+
+- Li, R.*, **Zhang, X.,** Zhu, Q., & Yuan, Q. (2021). Research on collaborative governance model of informatization construction under the united front work pattern. *Journal of Jiangsu Institute of Socialism* (06), 4-11. (In Chinese)
+
+
+
+<!-- Future section for invited talks
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -41,18 +79,84 @@ My research interest includes neural machine translation and computer vision. I 
 </div>
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+-->
+  
+## Conference Presentations
+- Jia, M.*, Zhao, Y.C., & **Zhang, X**. (2025). The role of skill adaptation in navigating technostress and job performance among creative professionals. *PACIS 2025*, Kuala Lumpur, Malaysia.
+
+- Jia, M.*, Zhao, Y.C., & **Zhang, X**. (2025). Will potential threats persist? Attitudes and behavioral responses of creative professionals toward GenAI. *iConference 2025*, Indiana University Bloomington, USA.
+
+- **Zhang, X.*** (2024). Algorithm aversion to generative artificial intelligence in creative content. *International Conference on Information Systems (ICIS 2024)*, Bangkok, Thailand.
+
+- **Zhang, X.*** , Zhu, S., Zhao, Y.C., Jia, M., & Zhu, Q. (2024). Engaging with AI painting: Exploring motivations, challenges, and concerns in laypeople's creative information practices. *The Information Seeking in Context Conference (ISIC 2024)*, Aalborg, Denmark.
+
+- **Zhang, X.*** , Yang, K., Zhang, X., Li, X., & Zhu, Q. (2023). Understanding public online donations on social media during the pandemic: A social presence theory perspective. *Pacific Asia Conference on Information Systems (PACIS 2023)*, Nanchang, China.
+
+- **Zhang, X.*** , Zhu, S., Zhao, Y. C., & Zhu, Q. (2023). Exploring laypeople's engagement with AI painting: An investigation into human-AI collaboration in creative activities. *The 16th China Summer Workshop on Information Management (CSWIM 2023),* Changsha, China.
+
+- **Zhang, X.*** , Xue, X., Zhu Q., & Zhao, Y.C. (2022). The evaluation index system construction and empirical research of suitable aging design of mobile government service app. *Chinese Information Science Conference 2022*, Beijing, China. (In Chinese)
+
+## Poster Presentations
+
+- **Zhang, X.*** , Jia, M., Zhu, S., & Zhu, Q. (2024). Understanding the human-AI collaboration experience in creative activities. *iConference 2024*, Changchun, China.
+
+- **Zhang, X.*** , Zhu, S., Zhao, Y.C., Hansen, P., & Zhu, Q. (2023). Exploring laypeople's engagement with AI painting: A preliminary investigation into human-AI collaboration. *Proceedings of the Association for Information Science and Technology*, 60: 1215-1217.
+
+- **Zhang, X.*** , Yang, K., & Zhu, Q. (2022). Public online donation participation research based on social media. *ASIS&T Asia-Pacific Regional Conference 2022*, Virtual.
+
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024* ICIS 2025 Scholarship Program
+- *2024* Outstanding Graduates of Nanjing University (Distinguished)
+- *2023* Chinese National Scholarship (Top 0.2% nationwide, ¥20,000)
+- *2023* Outstanding Graduate Student of Nanjing University (Distinguished)
+- *2023* Nanjing University Graduate First-Class Academic Scholarship (¥12,000)
+- *2022* Nanjing University Graduate Second-Class Academic Scholarship (¥8,000)
+- *2021* Nanjing University Graduate First-Class Academic Scholarship (¥10,000)
+- *2020* China Merchants Bank FinTech Elite Training Camp Competition (Ranked 23rd, ¥1,888)
+- *2019* Zhen Xing International Exchange Scholarship (¥40,000)
+- *2019* Nanjing University Art and Cultural Creativity Scholarship (¥6,000)
+- *2019* Academic Achievement Award and Scholarship for Nanjing University (¥4,000)
+- *2018* Outstanding Graduate of School of Information Management, Nanjing University
+- *2018* Outstanding Student of Social Practice in Nanjing University
+- *2018* Nanjing University Volunteer Star of the Year 2017
+- *2017* Outstanding Volunteers of the Red Cross Society at Nanjing University
+
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
+- *2025.03 - present*, **PhD in Information Systems**, University of Auckland Business School, Auckland, New Zealand
+  - Supervisor: Dr. Randy Wong & Prof. Julia Kotlarsky
+- *2021.09 - 2024.06*, **Research Master of Management (Information Science)**, School of Information Management, Nanjing University, China
+  - Supervisor: Prof. Qinghua Zhu
+- *2017.09 - 2021.06*, **Bachelor of Management (Information Management and Information System)**, School of Information Management, Nanjing University, China
+- *2019.09 - 2021.07*, **Minor in Arts and Cultural Creativity**, School of Arts, Nanjing University, China
+    
+<!-- Future section for invited talks
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/))
+-->
 
+# 📋 Academic Service & Engagement
+
+## Journal Reviewing
+- Electronic Commerce Research (2025)
+
+## Conference Reviewing
+- International Conference on Information Systems (ICIS 2025, 2024)
+- American Conference on Information Systems (AMCIS 2025, 2024)
+- Pacific Asia Conference on Information Systems (PACIS 2023)
+- The 86th Annual Meeting of the Association for Information Science and Technology (ASIS&T 2023)
+- The 16th China Summer Workshop on Information Management (CSWIM 2023)
+
+## Student Volunteer
+- International Conference on Information Systems (ICIS 2025, 2024)
+  
 # 💻 Internships
+- *2022.09 - 2022.11*, **SAAS Product Design Intern**, TRANSWARP, Nanjing, China
+  - Engaged in design and iteration of enterprise-oriented big data platform products
+- *2020.09 - 2021.03*, **AI Product Design Intern**, SENSETIME, Shanghai, China  
+  - Participated in designing smart community products from requirement generation to launch
+- *2019.01 - 2019.03*, **System Development Intern**, DISONMED, Zhengzhou, China
+  - Contributed to design and development of company management system
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
