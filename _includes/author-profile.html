@@ -22,6 +22,9 @@
       {% if author.location %}
         <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.location }}</li>
       {% endif %}
+      {% if author.show_time %}
+        <li><i class="fa fa-fw fa-clock-o" aria-hidden="true"></i> <span id="live-time">Loading...</span></li>
+      {% endif %}
       {% if author.employer %}
         <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.employer }}</li>
       {% endif %}
@@ -213,6 +216,39 @@
       {% if author.wikipedia %}
         <a href="https://en.wikipedia.org/wiki/User:{{ author.wikipedia }}"><i class="fab fa-fw fa-wikipedia-w" aria-hidden="true"></i></a>
       {% endif %}
-    </div>
+    </div>    
   </div>
 </div>
+
+
+{% if author.show_time %}
+<script>
+function updateLiveTime() {
+    const now = new Date();
+    const userTimezone = "{{ author.timezone | default: 'Pacific/Auckland' }}";
+    
+    const localTime = new Date(now.toLocaleString("en-US", {timeZone: userTimezone}));
+    const timeString = localTime.toLocaleTimeString('en-US', {
+        hour12: false,
+        hour: '2-digit',
+        minute: '2-digit'
+    });
+    
+    const utcTime = new Date();
+    utcTime.setTime(utcTime.getTime() + (utcTime.getTimezoneOffset() * 60000));
+    const offset = Math.round((localTime.getTime() - utcTime.getTime()) / (1000 * 60 * 60));
+    
+    const offsetText = offset > 0 ? `+${offset}h ahead` : offset < 0 ? `${Math.abs(offset)}h behind` : "UTC";
+    
+    const timeElement = document.getElementById('live-time');
+    if (timeElement) {
+        timeElement.textContent = `${timeString} - ${offsetText}`;
+    }
+}
+
+document.addEventListener('DOMContentLoaded', function() {
+    updateLiveTime();
+    setInterval(updateLiveTime, 60000); 
+});
+</script>
+{% endif %}
