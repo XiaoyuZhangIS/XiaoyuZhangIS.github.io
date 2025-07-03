@@ -20,7 +20,7 @@ function updateLiveTime() {
             utcTime.setTime(utcTime.getTime() + (utcTime.getTimezoneOffset() * 60000));
             const offset = Math.round((localTime.getTime() - utcTime.getTime()) / (1000 * 60 * 60));
             const offsetText = offset > 0 ? `${offset}h ahead` : offset < 0 ? `${Math.abs(offset)}h behind` : "UTC";
-            timeElement.innerHTML = `${timeString} - <span class="timezone-offset">${offsetText}</span>`;
+            timeElement.innerHTML = `${timeString} - <span style="color: #666 !important;">${offsetText}</span>`;
         }
     }
 }
