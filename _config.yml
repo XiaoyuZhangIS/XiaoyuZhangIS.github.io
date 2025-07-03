@@ -25,6 +25,9 @@ author:
   avatar           : "images/IMG_20240610_000522.jpg"
   bio              : ""
   location         : "Auckland, New Zealand"
+  timezone         : "Pacific/Auckland"  
+  show_time        : true               
+  employer         :
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=SCHOLAR_ID&user=QoeZ1gcAAAAJ"
