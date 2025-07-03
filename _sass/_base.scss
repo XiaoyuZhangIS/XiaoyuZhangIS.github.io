@@ -325,16 +325,18 @@ b, i, strong, em, blockquote, p, q, span, figure, img, h1, h2, header, input, a,
    Time display styling
    ========================================================================== */
 
-.time-display,
-.time-display * {
-  color: #666 !important;
+.time-display {
+  color: inherit !important;
 }
 
-.time-display i.fa-clock-o {
-  color: #666 !important;
+.time-display i {
+  color: inherit !important;
 }
 
 .time-display #live-time {
-  color: #666 !important;
+  color: inherit !important;
 }
 
+.time-display .timezone-offset {
+  color: #666 !important;
+}
