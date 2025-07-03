@@ -2,6 +2,8 @@ function updateLiveTime() {
     const now = new Date();
     const userTimezone = document.querySelector('meta[name="user-timezone"]')?.content || 'Pacific/Auckland';
     
+    const userCurrentTimezone = Intl.DateTimeFormat().resolvedOptions().timeZone;
+    
     const localTime = new Date(now.toLocaleString("en-US", {timeZone: userTimezone}));
     const timeString = localTime.toLocaleTimeString('en-US', {
         hour12: false,
@@ -9,15 +11,17 @@ function updateLiveTime() {
         minute: '2-digit'
     });
     
-    const utcTime = new Date();
-    utcTime.setTime(utcTime.getTime() + (utcTime.getTimezoneOffset() * 60000));
-    const offset = Math.round((localTime.getTime() - utcTime.getTime()) / (1000 * 60 * 60));
-    
-    const offsetText = offset > 0 ? `${offset}h ahead` : offset < 0 ? `${Math.abs(offset)}h behind` : "UTC";
-    
     const timeElement = document.getElementById('live-time');
-    if (timeElement) {
-       timeElement.innerHTML = `${timeString} - <span class="timezone-offset">${offsetText}</span>`;
+    if (timeElement) { 
+        if (userCurrentTimezone === userTimezone) {
+            timeElement.textContent = timeString;
+        } else {
+            const utcTime = new Date();
+            utcTime.setTime(utcTime.getTime() + (utcTime.getTimezoneOffset() * 60000));
+            const offset = Math.round((localTime.getTime() - utcTime.getTime()) / (1000 * 60 * 60));
+            const offsetText = offset > 0 ? `${offset}h ahead` : offset < 0 ? `${Math.abs(offset)}h behind` : "UTC";
+            timeElement.innerHTML = `${timeString} - <span class="timezone-offset">${offsetText}</span>`;
+        }
     }
 }
 
