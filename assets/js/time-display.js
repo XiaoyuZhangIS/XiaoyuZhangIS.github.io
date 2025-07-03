@@ -17,7 +17,7 @@ function updateLiveTime() {
     
     const timeElement = document.getElementById('live-time');
     if (timeElement) {
-        timeElement.textContent = `${timeString} - ${offsetText}`;
+       timeElement.innerHTML = `${timeString} - <span class="timezone-offset">${offsetText}</span>`;
     }
 }
 
