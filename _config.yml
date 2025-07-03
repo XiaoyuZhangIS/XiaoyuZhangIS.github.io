@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "Xiaoyu Zhang (张晓宇)"
 description              : "Ph.D student, Budgie parent, YOLO"
-url                      : "https://xiaoyuzhangs.github.io"  
+url                      : "https://xiaoyuzhangis.github.io"  
 repository               : "XiaoyuZhangIS/XiaoyuZhangIS.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -28,7 +28,6 @@ author:
   location         : "Auckland, New Zealand"
   timezone         : "Pacific/Auckland"  
   show_time        : true               
-  employer         :
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=SCHOLAR_ID&user=QoeZ1gcAAAAJ"
