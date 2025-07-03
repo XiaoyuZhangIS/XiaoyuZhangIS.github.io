@@ -23,7 +23,7 @@
         <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.location }}</li>
       {% endif %}
       {% if author.show_time %}
-        <li><i class="fa fa-fw fa-clock-o" aria-hidden="true"></i> <span id="live-time">Loading...</span></li>
+        <li class="time-display"><i class="fa fa-fw fa-clock-o" aria-hidden="true"></i> <span id="live-time">Loading...</span></li>
       {% endif %}
       {% if author.employer %}
         <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.employer }}</li>
