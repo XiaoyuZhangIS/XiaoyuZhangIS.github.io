@@ -320,3 +320,20 @@ b, i, strong, em, blockquote, p, q, span, figure, img, h1, h2, header, input, a,
   -webkit-transition: $global-transition;
   transition: $global-transition;
 }
+
+/*
+   Time display styling
+   ========================================================================== */
+
+.time-display {
+  color: #333 !important;
+  
+  i.fa-clock-o {
+    color: #333 !important; // icon
+  }
+  
+  #live-time {
+    color: #333 !important; 
+  }
+}
+
