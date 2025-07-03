@@ -8,6 +8,7 @@
 # Site Settings
 title                    : "Xiaoyu Zhang (张晓宇)"
 description              : "Ph.D student, Budgie parent, YOLO"
+url                      : "https://xiaoyuzhangs.github.io"  
 repository               : "XiaoyuZhangIS/XiaoyuZhangIS.github.io"
 google_scholar_stats_use_cdn : true
 
