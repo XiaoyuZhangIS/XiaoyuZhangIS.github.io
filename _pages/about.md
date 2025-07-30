@@ -160,6 +160,7 @@ I am passionate about learning new things and embracing challenges. Outside of a
 # 📋 Academic Service & Engagement
 
 ## Journal Reviewing
+- International Journal of Human–Computer Interaction (2025)
 - Electronic Commerce Research (2025)
 
 ## Conference Reviewing
