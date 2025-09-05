@@ -178,6 +178,6 @@ I am passionate about learning new things and embracing challenges. Outside of a
 - *2020.09 - 2021.03*, **AI Product Design Intern**, SenseTime, China  
 - *2019.01 - 2019.03*, **System Development Intern**, Disonmed, China
 
-# ✉️ Contact
-Whether it's about research, potential collaborations, or just to connect, feel free to reach out via the email below :)
-x.zhang[at]auckland.ac.nz
+# ✉️ Contact {#contact}
+Whether it's about research, potential collaborations, or just to connect, feel free to reach out via the email x.zhang[at]auckland.ac.nz  :)
+
