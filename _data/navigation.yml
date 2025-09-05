@@ -3,8 +3,10 @@ main:
   - title: "About Me"
     url: "/#about-me"
 
+<-- 
   - title: "News"
     url: "/#-news"
+-->
 
   - title: "Publications"
     url: "/#-publications"
@@ -18,8 +20,10 @@ main:
   - title: "Service & Engagement"
     url: "/#-academic-service--engagement"
     
-  #- title: "Invited Talks"
-  #  url: "/#-invited-talks"
+<-- 
+  - title: "Invited Talks"
+    url: "/#-invited-talks"
+-->
 
   - title: "Internships"
     url: "/#-internships"
