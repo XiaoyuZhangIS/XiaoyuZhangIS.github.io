@@ -125,7 +125,6 @@ I am passionate about learning new things and embracing challenges. Outside of a
 </div>
 -->
 
-<!--
 # 🏅 Honors & Awards
 - *2024* ICIS 2024 Scholarship Program
 - *2024* Outstanding Graduates of Nanjing University (Distinguished)
@@ -142,7 +141,7 @@ I am passionate about learning new things and embracing challenges. Outside of a
 - *2018* Outstanding Student of Social Practice in Nanjing University
 - *2018* Nanjing University Volunteer Star of the Year 2017
 - *2017* Outstanding Volunteers of the Red Cross Society at Nanjing University
--->
+
 
 # 📖 Educations
 - *2025.03 - present*, **PhD in Information Systems**, University of Auckland Business School, Auckland, New Zealand
