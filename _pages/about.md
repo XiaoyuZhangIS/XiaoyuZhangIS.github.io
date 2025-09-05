@@ -174,16 +174,20 @@ I am passionate about learning new things and embracing challenges. Outside of a
 - International Conference on Information Systems (ICIS 2025, 2024)
 
 ## Research Assistant
-- Research Assistant, Business School, Info Systems & Operations Mgmt, New Zealand
+- Research Assistant, University of Auckland Business School, Info Systems & Operations Mgmt, New Zealand
   
 
 # 📓 Teaching {#teaching}
 
-## Graduate Teaching Assistant
+## Teaching Assistant
+### University of Auckland (2025 - present)
+- **BUSINFO 700: Analysis of Business Problems** (2025 Quarter Four) - *Graduate Course (Master of Business Analytics)*
+- **BUSAN 200: Business Analytics** (2025 Semester Two) - *Undergraduate Course (Bachelor of Commerce)*
 
-- BUSAN 200: Business Analytics (2025 Semester Two)
-- BUSINFO 700: Analysis of Business Problems (2025 Quarter Four)
-  
+### Nanjing University (2021 - 2023)
+- **Information Analysis** (2023 Spring, 2022 Fall, 2022 Spring)
+- **Information Society and Information Management** (2021 Fall)
+
 # 💻 Internships
 - *2022.09 - 2022.11*, **SAAS Product Design Intern**, Transwarp, China
 - *2020.09 - 2021.03*, **AI Product Design Intern**, SenseTime, China  
