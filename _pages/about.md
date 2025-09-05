@@ -29,7 +29,7 @@ I am passionate about learning new things and embracing challenges. Outside of a
 (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 -->
 
-# 🔥 News
+## News
 - *2025.03*: &nbsp;🎓 Started my first year as a PhD student at the University of Auckland Business School
 - *2024.12*: &nbsp;🎉 Attended ICIS (International Conference on Information Systems) 2024 and presented a paper, Bangkok, Thailand
 - *2024.08*: &nbsp;🎉 Attended ISIC (The Information Seeking in Context Conference) 2024 and presented a paper, Aalborg, Denmark
@@ -172,6 +172,17 @@ I am passionate about learning new things and embracing challenges. Outside of a
 
 ## Student Volunteer
 - International Conference on Information Systems (ICIS 2025, 2024)
+
+## Research Assistant
+- Research Assistant, Business School, Info Systems & Operations Mgmt, New Zealand
+  
+
+# 📓 Teaching {#teaching}
+
+## Graduate Teaching Assistant
+
+- BUSAN 200: Business Analytics (2025 Semester Two)
+- BUSINFO 700: Analysis of Business Problems (2025 Quarter Four)
   
 # 💻 Internships
 - *2022.09 - 2022.11*, **SAAS Product Design Intern**, Transwarp, China
