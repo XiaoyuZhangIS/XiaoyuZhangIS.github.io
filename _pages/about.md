@@ -49,8 +49,8 @@ I am passionate about learning new things and embracing challenges. Outside of a
 ## Journal Publications
 
 - Jia, M., Zhao, Y. C.\*, & **Zhang, X.** (2025). Navigating the perceived credibility and adoption of AI-generated review summaries in online shopping: An affordance perspective. *Information Processing & Management*, 63(2), 104404. [https://doi.org/10.1016/j.ipm.2023.103599](https://doi.org/10.1016/j.ipm.2023.103599) 
--
-- - Liu, T., **Zhang, X.**, Song, X., & Zhu, Q.\* (2025). Developing a minimum dataset for smart aged care service platforms in China. *Health Information Management Journal*. [https://doi.org/10.1177/18333583251327663](https://doi.org/10.1177/18333583251327663)
+
+- Liu, T., **Zhang, X.**, Song, X., & Zhu, Q.\* (2025). Developing a minimum dataset for smart aged care service platforms in China. *Health Information Management Journal*. [https://doi.org/10.1177/18333583251327663](https://doi.org/10.1177/18333583251327663)
 
 - Jia, M., Zhao, Y. C., Zhang, Y., **Zhang, X.** & Song, S (2025). Perceived Values, Attitudes, and Behavioral Responses of Knowledge Creators towards Generative AI in the Context of Human-AI Competition. *Journal of the China Society for Scientific and Technical Information*. 44(5): 609-628. [https://qbxb.istic.ac.cn/CN/10.3772/j.issn.1000-0135.2025.05.008](https://qbxb.istic.ac.cn/CN/10.3772/j.issn.1000-0135.2025.05.008) (In Chinese)
 
