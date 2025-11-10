@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Xiaoyu Zhang (张晓宇)"
+title                    : "Xiaoyu Zhang" #  (张晓宇)
 description              : "Ph.D student, Budgie parent, YOLO"
 url                      : "https://xiaoyuzhangis.github.io"  
 repository               : "XiaoyuZhangIS/XiaoyuZhangIS.github.io"
@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Xiaoyu Zhang<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(张晓宇)"
+  name             : "Xiaoyu Zhang<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;" #(张晓宇)
   avatar           : "images/IMG_20240610_000522.jpg"
   bio              : ""
   location         : "Auckland, New Zealand"
