@@ -17,7 +17,7 @@ redirect_from:
 
 # About Me
 <span class='anchor' id='about-me'></span>
-I am a first-year PhD student in Information Systems at the University of Auckland Business School, supervised by Dr. Randy Wong and Prof. Julia Kotlarsky. My current research focuses on Human-AI Interaction, Social Media, and Health Informatics.
+I am a first-year PhD student in Information Systems at the University of Auckland Business School<--, supervised by Dr. Randy Wong and Prof. Julia Kotlarsky-->. My current research focuses on Human-AI Interaction, Social Media, and Health Informatics.
 
 Prior to starting my doctoral studies, I completed my Research Master of Management (Major in Information Science) at Nanjing University in 2024, supervised by Prof. Qinghua Zhu. 
 
@@ -133,7 +133,7 @@ I am passionate about learning new things and embracing challenges. Outside of a
 - *2023* Chinese National Scholarship (Top 0.2% nationwide, ¥20,000)
 - *2023* Outstanding Graduate Student of Nanjing University (Distinguished)
 - *2023* Nanjing University Graduate First-Class Academic Scholarship (¥12,000)
-- *2022* Nanjing University Graduate Second-Class Academic Scholarship (¥8,000)
+- *2022* Nanjing University Graduate First-Class Academic Scholarship (¥12,000)
 - *2021* Nanjing University Graduate First-Class Academic Scholarship (¥10,000)
 - *2020* China Merchants Bank FinTech Elite Training Camp Competition (Ranked 23rd, ¥1,888)
 - *2019* Zhen Xing International Exchange Scholarship (¥40,000)
@@ -147,7 +147,7 @@ I am passionate about learning new things and embracing challenges. Outside of a
 
 # 📖 Educations
 - *2025.03 - present*, **PhD in Information Systems**, University of Auckland Business School, Auckland, New Zealand
-  - Supervisor: Dr. Randy Wong & Prof. Julia Kotlarsky
+<!-- - Supervisor: Dr. Randy Wong & Prof. Julia Kotlarsky -->
 - *2021.09 - 2024.06*, **Research Master of Management (Information Science)**, School of Information Management, Nanjing University, China
   - Supervisor: Prof. Qinghua Zhu
 - *2017.09 - 2021.06*, **Bachelor of Management (Information Management and Information System)**, School of Information Management, Nanjing University, China
