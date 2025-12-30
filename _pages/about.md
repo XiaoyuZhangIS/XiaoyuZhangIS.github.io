@@ -17,7 +17,7 @@ redirect_from:
 
 # About Me
 <span class='anchor' id='about-me'></span>
-I am a first-year PhD student in Information Systems at the University of Auckland Business School<--, supervised by Dr. Randy Wong and Prof. Julia Kotlarsky-->. My current research focuses on Human-AI Interaction, Social Media, and Health Informatics.
+I am a first-year PhD student in Information Systems at the University of Auckland Business School. My current research focuses on Human-AI Interaction, Social Media, and Health Informatics.
 
 Prior to starting my doctoral studies, I completed my Research Master of Management (Major in Information Science) at Nanjing University in 2024, supervised by Prof. Qinghua Zhu. 
 
@@ -147,7 +147,6 @@ I am passionate about learning new things and embracing challenges. Outside of a
 
 # 📖 Educations
 - *2025.03 - present*, **PhD in Information Systems**, University of Auckland Business School, Auckland, New Zealand
-<!-- - Supervisor: Dr. Randy Wong & Prof. Julia Kotlarsky -->
 - *2021.09 - 2024.06*, **Research Master of Management (Information Science)**, School of Information Management, Nanjing University, China
   - Supervisor: Prof. Qinghua Zhu
 - *2017.09 - 2021.06*, **Bachelor of Management (Information Management and Information System)**, School of Information Management, Nanjing University, China
