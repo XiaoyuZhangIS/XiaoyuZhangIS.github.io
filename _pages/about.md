@@ -70,11 +70,9 @@ I am passionate about learning new things and embracing challenges. Outside of a
 
 - **Zhang, X.**\*, Xue, X., Zhu, Q., & Zhao, Y.C. (2023). The evaluation index system construction and empirical research of suitable aging design of mobile government service app. *Information and Documentation Services* (02), 22-30. [https://doi.org/10.12154/j.qbzlgz.2023.02.003](https://doi.org/10.12154/j.qbzlgz.2023.02.003) (In Chinese)
 
-<!--
-- Li, R.\*, **Zhang, X.**, Xu, M., & Zhu, Q. (2022). Research on the construction of digital united front standard system under the new situation: Taking Jiangsu digital united front standard system construction as an example. *Journal of Jiangsu Institute of Socialism* (02), 44-52. (In Chinese)
+<!-- - Li, R.\*, **Zhang, X.**, Xu, M., & Zhu, Q. (2022). Research on the construction of digital united front standard system under the new situation: Taking Jiangsu digital united front standard system construction as an example. *Journal of Jiangsu Institute of Socialism* (02), 44-52. (In Chinese)-->
 
-- Li, R.\*, **Zhang, X.**, Zhu, Q., & Yuan, Q. (2021). Research on collaborative governance model of informatization construction under the united front work pattern. *Journal of Jiangsu Institute of Socialism* (06), 4-11. (In Chinese)
--->
+<!-- - Li, R.\*, **Zhang, X.**, Zhu, Q., & Yuan, Q. (2021). Research on collaborative governance model of informatization construction under the united front work pattern. *Journal of Jiangsu Institute of Socialism* (06), 4-11. (In Chinese)-->
 
 <!-- Future section for invited talks
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
