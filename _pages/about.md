@@ -17,7 +17,7 @@ redirect_from:
 
 # About Me
 <span class='anchor' id='about-me'></span>
-I am a first-year PhD student in Information Systems at the University of Auckland Business School. My current research focuses on Human-AI Interaction, Social Media, and Health Informatics.
+I am a first-year PhD student in Information Systems at the University of Auckland Business School. My current research focuses on Human-Computer Interaction, Social Media, and Health Informatics.
 
 Prior to starting my doctoral studies, I completed my Research Master of Management (Major in Information Science) at Nanjing University in 2024, supervised by Prof. Qinghua Zhu. 
 
@@ -130,7 +130,9 @@ I am passionate about learning new things and embracing challenges. Outside of a
 # 🏅 Honors & Awards
 - *2024* ICIS 2024 Scholarship Program
 - *2024* Outstanding Graduates of Nanjing University (Distinguished)
+<!--
 - *2023* Chinese National Scholarship (Top 0.2% nationwide, ¥20,000)
+-->
 - *2023* Outstanding Graduate Student of Nanjing University (Distinguished)
 - *2023* Nanjing University Graduate First-Class Academic Scholarship (¥12,000)
 - *2022* Nanjing University Graduate First-Class Academic Scholarship (¥12,000)
@@ -190,11 +192,12 @@ I am passionate about learning new things and embracing challenges. Outside of a
 - **Information Analysis** (2023 Spring, 2022 Fall, 2022 Spring)
 - **Information Society and Information Management** (2021 Fall)
 
+<!--
 # 💻 Internships
 - *2022.09 - 2022.11*, **SAAS Product Design Intern**, Transwarp, China
 - *2020.09 - 2021.03*, **AI Product Design Intern**, SenseTime, China  
 - *2019.01 - 2019.03*, **System Development Intern**, Disonmed, China
-
+-->
 # ✉️ Contact {#contact}
 Whether it's about research, potential collaborations, or just to connect, feel free to reach out via the email x.zhang[at]auckland.ac.nz  :)
 
